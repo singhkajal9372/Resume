@@ -69,6 +69,9 @@ main {
     font-size: 1vw;
     color: rgb(181, 177, 177);
 }
+.firstSection .profile a{
+    text-decoration: none;
+}
 
 .firstSection .profile button {
     background-color: rgb(36, 226, 163);
